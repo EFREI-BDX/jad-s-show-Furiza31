@@ -20,7 +20,7 @@ class MovieType {
   static const MovieType ROMANCE;
   static const MovieType SCIENCE_FICTION;
   static const MovieType THRILLER;
-  [[nodiscard]] std::string getName() const { return this.name; }
+  [[nodiscard]] std::string getName() const { return this->name; }
 };
 }  // namespace show
 

@@ -3,7 +3,9 @@
 
 #include <string>
 
-#include "IShow.hpp"
+#include "show/IShow.hpp"
+
+using namespace show;
 
 namespace customer {
 class ISpectator {

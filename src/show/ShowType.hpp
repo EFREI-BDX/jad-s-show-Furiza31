@@ -17,7 +17,7 @@ class ShowType {
   static const ShowType CONCERT;
   static const ShowType OTHER;
 
-  [[nodiscard]] std::string getName() const { return this.name; }
+  [[nodiscard]] std::string getName() const { return this->name; }
 };
 }  // namespace show
 

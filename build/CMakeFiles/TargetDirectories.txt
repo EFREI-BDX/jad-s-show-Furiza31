@@ -1,0 +1,3 @@
+/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/build/CMakeFiles/JADSSHOW.dir
+/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/build/CMakeFiles/edit_cache.dir
+/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/build/CMakeFiles/rebuild_cache.dir

@@ -8,11 +8,11 @@
 namespace show {
 class IShow {
  public:
-  virtual std::string getName() = 0;
+  virtual std::string getName() const = 0;
 
-  virtual std::string getDescritpion() = 0;
+  virtual std::string getDescription() const = 0;
 
-  virtual ShowType* getType() = 0;
+  virtual const ShowType* getType() const = 0;
 };
 }  // namespace show
 

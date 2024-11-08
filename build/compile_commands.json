@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/build",
+  "command": "/usr/bin/g++  -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31 -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/includes -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src -g -std=gnu++17 -o CMakeFiles/JADSSHOW.dir/main.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/main.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/main.cpp"
+},
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/build",
+  "command": "/usr/bin/g++  -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31 -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/includes -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src -g -std=gnu++17 -o CMakeFiles/JADSSHOW.dir/src/customer/Spectator.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src/customer/Spectator.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src/customer/Spectator.cpp"
+},
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/build",
+  "command": "/usr/bin/g++  -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31 -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/includes -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src -g -std=gnu++17 -o CMakeFiles/JADSSHOW.dir/src/show/ConcertShow.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src/show/ConcertShow.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src/show/ConcertShow.cpp"
+},
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/build",
+  "command": "/usr/bin/g++  -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31 -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/includes -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src -g -std=gnu++17 -o CMakeFiles/JADSSHOW.dir/src/show/MovieShow.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src/show/MovieShow.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src/show/MovieShow.cpp"
+},
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/build",
+  "command": "/usr/bin/g++  -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31 -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/includes -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src -g -std=gnu++17 -o CMakeFiles/JADSSHOW.dir/src/show/MovieType.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src/show/MovieType.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src/show/MovieType.cpp"
+},
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/build",
+  "command": "/usr/bin/g++  -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31 -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/includes -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src -g -std=gnu++17 -o CMakeFiles/JADSSHOW.dir/src/show/Show.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src/show/Show.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src/show/Show.cpp"
+},
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/build",
+  "command": "/usr/bin/g++  -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31 -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/includes -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src -g -std=gnu++17 -o CMakeFiles/JADSSHOW.dir/src/show/ShowType.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src/show/ShowType.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src/show/ShowType.cpp"
+},
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/build",
+  "command": "/usr/bin/g++  -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31 -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/includes -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src -g -std=gnu++17 -o CMakeFiles/JADSSHOW.dir/src/show/StreetShow.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src/show/StreetShow.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src/show/StreetShow.cpp"
+},
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/build",
+  "command": "/usr/bin/g++  -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31 -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/includes -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src -g -std=gnu++17 -o CMakeFiles/JADSSHOW.dir/src/show/ThearterShow.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src/show/ThearterShow.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/src/show/ThearterShow.cpp"
+}
+]

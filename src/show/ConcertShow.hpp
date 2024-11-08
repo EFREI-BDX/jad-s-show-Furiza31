@@ -13,8 +13,8 @@ class ConcertShow : public Show {
   ConcertShow(std::string name, std::string description, std::string artist);
   ~ConcertShow() = default;
 
-  [[nodiscard]] std::string getArtist() const { return this.artist; }
-}
+  [[nodiscard]] std::string getArtist() const { return this->artist; }
+};
 }  // namespace show
 
 #endif

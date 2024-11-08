@@ -16,10 +16,12 @@ class StreetShow : public Show {
              std::vector<std::string> performers);
 
   [[nodiscard]] std::vector<std::string> getPerformers() const {
-    return this.performers;
+    return this->performers;
   }
 
   ~StreetShow() = default;
-}
+};
 
 }  // namespace show
+
+#endif

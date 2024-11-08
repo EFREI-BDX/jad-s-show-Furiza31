@@ -4,6 +4,9 @@
 #include <string>
 
 #include "ISpectator.hpp"
+#include "show/IShow.hpp"
+
+using namespace show;
 
 namespace customer {
 class Spectator : public ISpectator {
@@ -14,17 +17,12 @@ class Spectator : public ISpectator {
  public:
   Spectator(std::string firstName, std::string lastName);
 
-  [[nodiscard]] std::string getFirstName() override { return this.firstName; }
-  [[nodiscard]] std::string getLastName() override { return this.lastName; }
+  [[nodiscard]] std::string getFirstName() override { return this->firstName; }
+  [[nodiscard]] std::string getLastName() override { return this->lastName; }
   void watch(IShow* show) override;
 
-  ~Spectator() = default
+  ~Spectator() = default;
 };
-
-Spectator::Spectator(/* args */) {}
-
-Spectator::~Spectator() {}
-
 }  // namespace customer
 
 #endif

@@ -1,6 +1,7 @@
 #include "Spectator.hpp"
 
 using namespace customer;
+using namespace show;
 
 #include <iostream>
 
@@ -13,6 +14,6 @@ void Spectator::watch(IShow* show) {
   std::cout << this->getFirstName() << " " << this->getLastName()
             << " is watching" << std::endl;
   std::cout << show->getName() << std::endl;
-  std::cout << show->getDescritpion() << std::endl;
+  std::cout << show->getDescription() << std::endl;
   std::cout << show->getType() << std::endl;
 }

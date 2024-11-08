@@ -11,17 +11,17 @@ class Show : public IShow {
  private:
   std::string name;
   std::string description;
-  ShowType type;
+  const ShowType* type;
 
  public:
-  Show(std::string name, std::string description, ShowType type);
+  Show(std::string name, std::string description, const ShowType* type);
   ~Show() = default;
 
-  [[nodiscard]] std::string getName() const override { return this.name; }
+  [[nodiscard]] std::string getName() const override { return this->name; }
   [[nodiscard]] std::string getDescription() const override {
-    return this.description;
+    return this->description;
   }
-  [[nodiscard]] ShowType* getType() const override { return &this.type; }
+  [[nodiscard]] const ShowType* getType() const override { return this->type; }
 };
 
 }  // namespace show

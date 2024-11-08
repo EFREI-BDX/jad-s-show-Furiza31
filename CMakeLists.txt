@@ -1,6 +1,19 @@
-cmake_minimum_required(VERSION 3.29)
-project(jad_s_show)
+cmake_minimum_required(VERSION 3.10)
 
-set(CMAKE_CXX_STANDARD 20)
+project(JADSSHOW)
 
-add_executable(jad_s_show main.cpp)
+set(CMAKE_CXX_STANDARD 17)
+
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+
+include_directories(${PROJECT_SOURCE_DIR})
+include_directories(${PROJECT_SOURCE_DIR}/includes)
+
+file(GLOB_RECURSE SOURCES
+  "${PROJECT_SOURCE_DIR}/**.cpp"
+  "${PROJECT_SOURCE_DIR}/**.hpp"
+)
+
+list(FILTER SOURCES EXCLUDE REGEX "CMakeFiles")
+
+add_executable(JADSSHOW ${SOURCES})

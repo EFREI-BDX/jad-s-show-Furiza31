@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/build",
-  "command": "/usr/bin/g++  -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31 -I/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/includes -g -std=gnu++17 -o CMakeFiles/JADSSHOW.dir/main.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/main.cpp",
-  "file": "/home/furiza/school/ProgrammationCEtCpp/7/jad-s-show-Furiza31/main.cpp"
-}
-]
